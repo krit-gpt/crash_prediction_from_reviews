@@ -4,6 +4,8 @@ The project involved predicting whether a crash occured or not, based on complai
 The project involved using Topic Modeling, Sentiment Analysis, Data Preprocessing and Cleaning, Predictive Analysis using 
 Cross Validation and Decision Tree. The best tree was obtained based on the best Accuracy obtained from Cross Validation.
 
+The project was done in a group of 5.
+
 #### Data
 The	data	consist of	5,330	consumer	complaints submitted	to	the	NTHSA	for	some	Honda	makes	in	years	2001-2003.
 
